@@ -1,24 +1,40 @@
-# Surviv+ 2020
+# :heavy_check_mark: SurvivPlus2020
+_ _ExtensiÃ³n para Chrome, Edge, Opera y Brave para inyectar cheats de Surviv.io + 1 predeterminado
 
-## ~~ Esta extensión está aún en modo desarrollo, por favor, pruébala bajo tus propios riesgos ~~
-## ~~ This extension is still in development mode, please try it at your own risk ~~
+## Surviv+ 2020
 
-Continúa observando su desarrollo: [maintenance_notice.md](maintenance_notice.md).
+![alt text](http://url/to/img.png)
 
-Nuevas características para Suviv.io:
-New Surviv.io features:
+##  :heavy_exclamation_mark: Esta extensiÃ³n estÃ¡ aÃºn en modo desarrollo, por favor, pruÃ©bala bajo tus propios riesgos 
+##  :heavy_exclamation_mark: This extension is still in development mode, please try it at your own risk 
 
-- Aimbot2020 (Autoapuntar) sin errores, al enemigo más cercano y con una predicción de 23 ms
-- Muestra la ubicación del enemigo
-- Colorea la línea del enemigo en amarillo cuando está cerca y rojo cuando le puedas disparar
-- Colorea también las líneas de los enemigos que están en subterráneos
-- Te muestra dónde están artículos de protección (cascos, chalecos) y también las miras (o mirillas) (x1, x2, x4, x8, x15)
-- Hace transparente árboles, mesas, macetas y techos de casas para que no se te esconda nadie
-- Colorea de rojo y aumenta de tamaño las granadas para aumentar tu atención
-- Aumenta el tamaño del mapa y te muestra la ubicación de objetos especiales
+### :small_blue_diamond: Nuevas caracterÃ­sticas para Suviv.io: (puedes aÃ±adir las tuyas tambiÃ©n)
+### :small_blue_diamond: New Surviv.io features:
 
-# No se planea subirla a Chrome Web Store - There is no planned to upload it to Chrome Web Store
+- Aimbot2020 (Autoapuntar) sin errores, al enemigo mÃ¡s cercano y con una predicciÃ³n de 23 ms
+- Muestra la ubicaciÃ³n del enemigo
+- Colorea la lÃ­nea del enemigo en amarillo cuando estÃ¡ cerca y rojo cuando le puedas disparar
+- Colorea tambiÃ©n las lÃ­neas de los enemigos que estÃ¡n en subterrÃ¡neos
+- Te muestra dÃ³nde estÃ¡n artÃ­culos de protecciÃ³n (cascos, chalecos) y tambiÃ©n las miras (o mirillas) (x1, x2, x4, x8, x15)
+- Hace transparente Ã¡rboles, mesas, macetas y techos de casas para que no se te esconda nadie
+- Colorea de rojo y aumenta de tamaÃ±o las granadas para aumentar tu atenciÃ³n
+- Aumenta el tamaÃ±o del mapa y te muestra la ubicaciÃ³n de objetos especiales
 
-Saludos desde ecuador!
-DixDev
+_ _No se planea subirla a Chrome Web Store - There is no planned to upload it to Chrome Web Store_ _
 
+# :small_blue_diamond: Â¿ Por quÃ© escoger Surviv+2020 en lugar de ResourceOverride ?
+Como ya podrÃ¡s adivinar, los sistemas de Surviv.io (y sus sitios proxys) estÃ¡n siempre actualizÃ¡ndose, y de esa manera cubren nuevos huecos de seguridad para evitar extensiones de hacks, cheats, aimbots, etc. Surviv+2020 actualiza su base de datos conforme a cada actualizaciÃ³n del servidor de Surviv.io y de esa manera siempre estarÃ¡ funcionando; mientras que ResourceOverride no se actualiza debido a que es multipropÃ³sito, y no funcionarÃ¡ a largo plazo, incluso con riesgo de ser baneado :confused: :confused:
+
+![alt text](https://i.ibb.co/sywP89z/Screenshot-13-01-2020-17-47-05.png)
+
+# :wrench: Â¿CÃ³mo instalar?
+- Descarga con el botÃ³n "Clone or download" como formato ZIP
+- Abre el archivo ZIP y descomprÃ­melo usando Winrar, 7zip o el lector de archivos comprimidos de Windows en la ubicaciÃ³n de tu preferencia
+- Abre Google Chrome, Edge (Chromium), Opera o Brave en la pestaÃ±a Extensiones (por ejemplo, chrome://extensions) o simplemente toca en el menÃº contextual de la derecha y elige "Extensiones"
+- Busca "Modo desarrollador" y actÃ­valo
+- Haz click en "Carga Desempaquetada" y elige el directorio donde descomprimiste el archivo ZIP, lugo elige "Aceptar"
+- Listo, ahora abre la extensiÃ³n ya instalada y elige "Options", luego en "Load rules" y elige el archivo "predeterminado.json" que se encuentra en el directorio que elegiste anteriormente; y luego en abrir.
+- Listo! :sunglasses: , ahora abre Surviv.io y se ejecutarÃ¡ enseguida.
+
+Saludos desde Ecuador!
+> DixDev

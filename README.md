@@ -1,4 +1,4 @@
-# :small_blue_diamond: SurvivPlus2020
+# :heavy_check_mark: SurvivPlus2020
 _ _Extensión para Chrome, Edge, Opera y Brave para inyectar cheats de Surviv.io + 1 predeterminado
 
 ## Surviv+ 2020

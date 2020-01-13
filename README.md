@@ -34,7 +34,7 @@ Como ya podrás adivinar, los sistemas de Surviv.io (y sus sitios proxys) están
 - Busca "Modo desarrollador" y actívalo
 - Haz click en "Carga Desempaquetada" y elige el directorio donde descomprimiste el archivo ZIP, lugo elige "Aceptar"
 - Listo, ahora abre la extensión ya instalada y elige "Options", luego en "Load rules" y elige el archivo "predeterminado.json" que se encuentra en el directorio que elegiste anteriormente; y luego en abrir.
-- Listo! :simple_smile: , ahora abre Surviv.io y se ejecutará enseguida.
+- Listo! :sunglasses: , ahora abre Surviv.io y se ejecutará enseguida.
 
 Saludos desde Ecuador!
 > DixDev

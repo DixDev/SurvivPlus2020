@@ -1,4 +1,4 @@
-# :heavy_check_mark: SurvivPlus2020
+# :heavy_check_mark: SurvivPlus2020 (Feb. update! - Actualiz. de febrero!)
 _ _Extensión para Chrome, Edge, Opera y Brave para inyectar cheats de Surviv.io + 1 predeterminado
 
 ## Surviv+ 2020
@@ -27,14 +27,15 @@ Como ya podrás adivinar, los sistemas de Surviv.io (y sus sitios proxys) están
 
 ![alt text](https://i.ibb.co/sywP89z/Screenshot-13-01-2020-17-47-05.png)
 
-# :wrench: ¿Cómo instalar?
+# :wrench: ¿Cómo instalar? (Updated - Actualizado)
 - Descarga con el botón "Clone or download" como formato ZIP
 - Abre el archivo ZIP y descomprímelo usando Winrar, 7zip o el lector de archivos comprimidos de Windows en la ubicación de tu preferencia
 - Abre Google Chrome, Edge (Chromium), Opera o Brave en la pestaña Extensiones (por ejemplo, chrome://extensions) o simplemente toca en el menú contextual de la derecha y elige "Extensiones"
 - Busca "Modo desarrollador" y actívalo
 - Haz click en "Carga Desempaquetada" y elige el directorio donde descomprimiste el archivo ZIP, lugo elige "Aceptar"
-- Listo, ahora abre la extensión ya instalada y elige "Options", luego en "Load rules" y elige el archivo "predeterminado.json" que se encuentra en el directorio que elegiste anteriormente; y luego en abrir.
+- Listo, ahora abre la extensión ya instalada y elige "Opciones", luego en "Cargar parche" y elige el archivo "predeterminado.json" que se encuentra en el directorio que elegiste anteriormente; y luego en abrir.
 - Listo! :sunglasses: , ahora abre Surviv.io y se ejecutará enseguida.
 
 Saludos desde Ecuador!
 > DixDev
+pd: > Alejandro ya cálmate, que no sabes disimular la ley del hielo :sunglasses:

@@ -1,0 +1,1 @@
+{"v":1,"data":[{"id":"d1","matchUrl":"*surviv.io*","rules":[{"type":"normalOverride","match":"*surviv.io/js/app.*.js","replace":"https://rawcdn.githack.com/u1qqlv/SURVIV.IO-PRO-HACK/078b5a7c448f79de06c4dcf8a7c7576fb0be983d/default/app.09f8f567.js","on":true}],"on":true}]}

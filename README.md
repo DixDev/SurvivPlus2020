@@ -1,5 +1,7 @@
-# :heavy_check_mark: SurvivPlus2020 (Feb. update! - Actualiz. de febrero!)
-_ _Extensión para Chrome, Edge, Opera y Brave para inyectar cheats de Surviv.io + 1 predeterminado
+
+
+##  :heavy_exclamation_mark: UPDATING DISCONTINUED
+DUE TO SURVIV.IO LIMITATIONS AND BANS I DECIDED TO END EXTENSION SUPPORT, THANK U FOR UR INTEREST!
 
 ## Surviv+ 2020
 
